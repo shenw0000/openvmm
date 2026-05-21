@@ -3,7 +3,7 @@
 
 //! PCI Express topology types.
 
-use crate::cxl::CfmwsWindowRestrictions;
+use cxl_spec::CfmwsWindowRestrictions;
 use memory_range::MemoryRange;
 
 /// CXL-specific host bridge metadata.
